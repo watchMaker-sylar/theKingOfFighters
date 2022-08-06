@@ -1,0 +1,2 @@
+# theKingOfFighters
+该repository目的在于开发一款基于Godot游戏引擎,内容是仿造拳皇开发的游戏
